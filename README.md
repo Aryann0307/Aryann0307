@@ -18,20 +18,20 @@
 
 ## 👨‍💻 About Me
 
-I'm **Aryan Raj**, a technology enthusiast driven by curiosity and a passion for exploring computers, programming, and emerging technologies.
+I'm **Aryan Raj**, a technology enthusiast driven by curiosity and a passion for exploring **computers, programming, and emerging technologies**.
 
-I have a particular interest in **Artificial Intelligence and Machine Learning**, and aspire to build a career as an AI/ML Engineer, contributing to innovative and impactful technological solutions.
+I have a particular interest in **Artificial Intelligence and Machine Learning**, and aspire to build a career as an **AI/ML Engineer**, contributing to innovative and impactful technological solutions.
 
-- 🤖 Exploring Machine Learning through Scikit-learn and practical implementations.
-- 🧠 Building foundational knowledge of Deep Learning architectures, including ANN, RNN, and CNN.
-- 🐍 Working with Python and its data science ecosystem, including NumPy, Pandas, and Matplotlib.
-- 💻 Familiar with C, C++, Java, and Python programming.
-- 🌐 Exploring web technologies such as HTML and CSS.
-- 🗄️ Working with SQL and MySQL for database management.
-- ⚡ Comfortable with terminal commands and command-line operations.
-- 🚀 Currently strengthening my problem-solving abilities through Data Structures & Algorithms using C++.
+- 🤖 Exploring **Machine Learning** through **Scikit-learn** and practical implementations.
+- 🧠 Building foundational knowledge of **Deep Learning architectures**, including **ANN, RNN, and CNN**.
+- 🐍 Working with **Python** and its data science ecosystem, including **NumPy, Pandas, and Matplotlib**.
+- 💻 Familiar with **C, C++, Java, and Python** programming.
+- 🌐 Exploring web technologies such as **HTML and CSS**.
+- 🗄️ Working with **SQL and MySQL** for database management.
+- ⚡ Comfortable with **terminal commands** and **command-line operations**.
+- 🚀 Currently strengthening my **problem-solving abilities** through **Data Structures & Algorithms (DSA)** using **C++**.
 
-I enjoy understanding the concepts behind technology, experimenting with new ideas, and continuously expanding my technical knowledge through hands-on learning.
+I enjoy understanding the concepts behind technology, experimenting with new ideas, and continuously expanding my technical knowledge through **hands-on learning**.
 
 ---
 
@@ -67,20 +67,8 @@ I enjoy understanding the concepts behind technology, experimenting with new ide
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" />
-  <img src="https://img.shields.io/badge/Terminal-172554?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash Terminal" />
 </p>
-
----
-
-## 🌱 Currently Exploring
-
-| Domain | Focus |
-|:---|:---|
-| DSA | Problem-solving using C++ |
-| Machine Learning | Algorithms and practical implementation |
-| Deep Learning | ANN, RNN and CNN architectures |
-| Python | Data analysis and AI applications |
-| Computer Science | Strengthening programming fundamentals |
 
 ---
 
@@ -107,6 +95,18 @@ I enjoy understanding the concepts behind technology, experimenting with new ide
 *One problem at a time. One concept at a time. Always improving.*
 
 </div>
+
+---
+
+## 🌱 Currently Exploring
+
+| Domain | Focus |
+|:---|:---|
+| DSA | Problem-solving using C++ |
+| Machine Learning | Algorithms and practical implementation |
+| Deep Learning | ANN, RNN and CNN architectures |
+| Python | Data analysis and AI applications |
+| Computer Science | Strengthening programming fundamentals |
 
 ---
 
@@ -150,7 +150,7 @@ I enjoy understanding the concepts behind technology, experimenting with new ide
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/aryan-raj-9bb59b442/">
+<a href="YOUR_LINKEDIN_URL">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
