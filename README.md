@@ -1,17 +1,22 @@
 
-<!-- ========== HEADER ========== -->
+<!-- ================================================== -->
+<!--                  ARYAN RAJ                         -->
+<!--              GITHUB PROFILE README                 -->
+<!-- ================================================== -->
 
 <div align="center">
 
 # ARYAN RAJ
 
-### Aspiring AI/ML Engineer | Tech Enthusiast
+### Aspiring AI/ML Engineer | Programmer | Tech Enthusiast
+
+**Curious by Nature. Driven by Technology.**
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Exploring+Artificial+Intelligence;Learning+Machine+%26+Deep+Learning;Building+with+Code+and+Curiosity;Turning+Ideas+into+Possibilities" />
 
 <br/>
-
-*Exploring Technology. Building Intelligence. Creating Possibilities.*
 
 </div>
 
@@ -19,45 +24,47 @@
 
 ## 🧑‍💻 About Me
 
-Hey! I'm **Aryan Raj**, a tech enthusiast who loves exploring computers, technology, and the possibilities they offer.
+I'm **Aryan Raj**, a technology enthusiast driven by curiosity and a passion for exploring computers, programming, and emerging technologies.
 
-I'm particularly interested in Artificial Intelligence and Machine Learning, and my long-term goal is to become an AI/ML Engineer and contribute to meaningful technological innovations.
+I have a particular interest in **Artificial Intelligence and Machine Learning**, and aspire to build a career as an AI/ML Engineer, contributing to innovative and impactful technological solutions.
 
-- 🤖 Exploring Machine Learning using Scikit-learn.
-- 🧠 Learning Deep Learning architectures: ANN, RNN and CNN.
-- 🐍 Working with Python and its data science ecosystem.
-- 💻 Programming in C, C++, Java and Python.
-- 🌐 Familiar with HTML, CSS, SQL and terminal commands.
-- 🚀 Currently strengthening my DSA skills using C++.
+- 🤖 Exploring Machine Learning through Scikit-learn and practical implementations.
+- 🧠 Building foundational knowledge of Deep Learning architectures, including ANN, RNN, and CNN.
+- 🐍 Working with Python and its data science ecosystem, including NumPy, Pandas, and Matplotlib.
+- 💻 Familiar with C, C++, Java, and Python programming.
+- 🌐 Exploring web technologies such as HTML and CSS.
+- 🗄️ Working with SQL and MySQL for database management.
+- ⚡ Comfortable with terminal commands and command-line operations.
+- 🚀 Currently strengthening my problem-solving abilities through Data Structures & Algorithms using C++.
 
-I enjoy learning how technology works, experimenting with new concepts, and continuously improving my problem-solving abilities.
+I enjoy understanding the concepts behind technology, experimenting with new ideas, and continuously expanding my technical knowledge through hands-on learning.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css" />
 </p>
 
-### AI / Machine Learning
+### 🤖 AI / Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,sklearn,numpy,pandas" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,sklearn,numpy,pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48" width="48" alt="Matplotlib"/>
 </p>
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-2563EB?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-7C3AED?style=for-the-badge)
 
-**Deep Learning Concepts:** ANN | RNN | CNN
+**Deep Learning Concepts:** `ANN` · `RNN` · `CNN`
 
-### Database & Development Tools
+### 🗄️ Database & Development Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,bash" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,bash" />
 </p>
 
 ---
@@ -65,9 +72,9 @@ I enjoy learning how technology works, experimenting with new concepts, and cont
 ## 🧠 Currently Exploring
 
 - Data Structures & Algorithms using C++.
-- Machine Learning algorithms and implementation.
+- Machine Learning algorithms and practical implementation.
 - Deep Learning and neural network architectures.
-- Data analysis using NumPy, Pandas and Matplotlib.
+- Data analysis using NumPy, Pandas, and Matplotlib.
 - Exploring the evolving world of Artificial Intelligence.
 
 ---
@@ -116,14 +123,14 @@ I enjoy learning how technology works, experimenting with new concepts, and cont
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-</div>
-
----
-
-<div align="center">
+<br/><br/>
 
 ### 💡 Code. Learn. Explore. Evolve.
 
 *Always curious. Always building. Always learning.*
 
 </div>
+
+<!-- ================================================== -->
+<!--                    END README                      -->
+<!-- ================================================== -->
