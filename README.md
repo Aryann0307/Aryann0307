@@ -1,16 +1,22 @@
 
 <!-- ===================================================== -->
 <!--                    ARYAN RAJ                           -->
-<!--                 GITHUB PROFILE                        -->
+<!--                  GITHUB PROFILE                       -->
 <!-- ===================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:25203D,75:55417D,100:0D1117&height=175&section=header&text=ARYAN%20RAJ&fontSize=46&fontColor=E9E3F5&fontAlignY=38&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20Programmer%20%7C%20Tech%20Enthusiast&descSize=14&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,25:21133F,55:5934A0,80:34216B,100:080B16&height=200&section=header&text=ARYAN%20RAJ&fontSize=50&fontColor=FFFFFF&fontAlignY=36&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20Programmer%20%7C%20Tech%20Enthusiast&descSize=14&descColor=D9C8FF&descAlignY=58&animation=twinkling" />
 
 ### ✦ Curious by Nature. Driven by Technology.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=B9A1D9&center=true&vCenter=true&width=650&lines=Exploring+Artificial+Intelligence;Learning+Machine+%26+Deep+Learning;Building+with+Code+and+Curiosity;Turning+Ideas+into+Possibilities" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=C4A1FF&center=true&vCenter=true&width=650&lines=Exploring+Artificial+Intelligence;Learning+Machine+%26+Deep+Learning;Building+with+Code+and+Curiosity;Turning+Ideas+into+Possibilities" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/AI%20%26%20ML-8B5CF6?style=flat-square&logo=brain&logoColor=white" />
+<img src="https://img.shields.io/badge/Developer-38BDF8?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Always%20Learning-F0A45D?style=flat-square&logo=bookstack&logoColor=white" />
 
 </div>
 
@@ -55,9 +61,9 @@ I enjoy understanding the concepts behind technology, experimenting with new ide
 
 **Deep Learning Concepts**
 
-![ANN](https://img.shields.io/badge/ANN-66518A?style=flat-square)
-![RNN](https://img.shields.io/badge/RNN-79649C?style=flat-square)
-![CNN](https://img.shields.io/badge/CNN-8B72A9?style=flat-square)
+![ANN](https://img.shields.io/badge/ANN-7050A8?style=flat-square)
+![RNN](https://img.shields.io/badge/RNN-8865C4?style=flat-square)
+![CNN](https://img.shields.io/badge/CNN-A17BD6?style=flat-square)
 
 ### 🗄️ Database & Development Tools
 
@@ -84,13 +90,13 @@ I enjoy understanding the concepts behind technology, experimenting with new ide
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aryann0307&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B9A1D9&icon_color=D6AD78&text_color=D8D5E2" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aryann0307&show_icons=true&hide_border=false&border_color=9B6DCE&bg_color=0B0D18&title_color=C9A5FF&icon_color=65C9FF&text_color=E1D9F0" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryann0307&layout=compact&hide_border=true&bg_color=0D1117&title_color=B9A1D9&text_color=D8D5E2" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryann0307&layout=compact&hide_border=false&border_color=9B6DCE&bg_color=0B0D18&title_color=C9A5FF&text_color=E1D9F0" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Aryann0307&theme=dark&hide_border=true&background=0D1117&ring=9B83BE&fire=D6AD78&currStreakLabel=B9A1D9&sideLabels=D8D5E2&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999" />
+<img width="75%" src="https://streak-stats.demolab.com?user=Aryann0307&theme=dark&hide_border=false&border=9B6DCE&background=0B0D18&ring=AA80ED&fire=F0A45D&currStreakLabel=C9A5FF&sideLabels=D8CBEA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9B91AC" />
 
 </div>
 
@@ -100,11 +106,11 @@ I enjoy understanding the concepts behind technology, experimenting with new ide
 
 <div align="center">
 
-*Showcasing my learning journey through programming, AI/ML and practical projects.*
+*Showcasing my learning journey through programming, AI/ML and practical implementations.*
 
 </div>
 
-<!-- Add actual repository project cards here -->
+<!-- Add your actual repository links and project cards here -->
 
 - 🤖 **Machine Learning Projects** — Practical implementations of ML algorithms.
 - 🐍 **Python Projects** — Exploring Python and its ecosystem.
@@ -128,27 +134,31 @@ I enjoy understanding the concepts behind technology, experimenting with new ide
 
 ---
 
-## 🏆 LeetCode
+## 🏆 LeetCode Journey
 
 <div align="center">
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<a href="https://leetcode.com/u/Aryan_24_03/">
+  <img src="https://img.shields.io/badge/LeetCode-Aryan_24_03-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 <br/><br/>
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira+Code&ext=heatmap" width="85%" />
+<a href="https://leetcode.com/u/Aryan_24_03/">
+  <img src="https://leetcard.jacoblin.cool/Aryan_24_03?theme=dark&font=Fira+Code&ext=heatmap" width="85%" />
+</a>
 
 <br/>
 
-*Consistently learning, solving problems, and improving one submission at a time.*
+*One problem at a time. One concept at a time. Always improving.*
 
 </div>
 
 ---
 
 <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,35:34216B,70:5934A0,100:080B16&height=110&section=footer" />
 
 ### ✦ Code. Learn. Explore. Evolve.
 
